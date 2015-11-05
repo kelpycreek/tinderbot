@@ -1,4 +1,5 @@
-
+//comment code:
+// positive, neutral, negative
 var pickups = [
     "Do you have a map? Cause I just got lost in your eyes.",
     "I must be a snowflake, cause I've fallen for you!",
@@ -14,7 +15,7 @@ var compliments = [
     "I like your hair",
     "You have a beautiful smile",
     "You seem like a nice person",
-    "I feel like you and I would get along.",
+    "I feel like you and I would get along.", //0,1,0
     "Duuuuuuude, Your face is great.",
     "You look like you would smell nice.",
     "You have interesting taste.",
@@ -28,22 +29,22 @@ var propositions = [
     "Netflix and chill?",
     "Did you grow up on a farm bc you look like you know how to raise a cock",
     "Sit on my face and I'll eat my way to your heart",
-    "Netflix and chill? We can bore ourselves to sex",
+    "Netflix and chill? We can bore ourselves to sex", //0,1,0
     ];
 
 var dates = [
     "Want to hang out tuesday?",
     "How about coffee?",
-    "What are you doing in like, six hours?",
+    "What are you doing in like, six hours?", //0,1,0
     "Do you like hiking?",
     "Do you wanna do what we did last time?",
     "How about an adventure? ",
-    "How about we meet up at westerns campus and then go on a walk down to the boulevard, watch the sun set, and on our way back grab some ice cream?",
+    "How about we meet up at westerns campus and then go on a walk down to the boulevard, watch the sun set, and on our way back grab some ice cream?", //1,0,0
     "lets dance sometime!",
 ];
 
 var questions = [
-    "What's your favorite disney movie?",
+    "What's your favorite disney movie?", //1,0,0
     "City lights or country stars?",
     "What kind of music do you listen to? whats your favorite book? Where do you go when you're sad?",
     "Complete this sentence: I wish I had someone with whom I could share ... ",
